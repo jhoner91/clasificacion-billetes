@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
+import streamlit as st 
 
-print("hola mundo ")
+st.title ("hola mundito")
 
 
 
